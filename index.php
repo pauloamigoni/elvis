@@ -257,178 +257,52 @@ Preloader
     ====================-->
 
       <section id="section_2" class="news_section section_first">
-        <div class="container animatedParent ">
+        
+   <!--container-->
+
+     <div class="container animatedParent ">
           <div class="row">
             <div class="col-xs-12">
-              <div class="section_head_widget">
+              <div class="section_head_widget"> 
                 <h2 class="animated fadeInDown">Elvis Presley</h2>
                 <h5 class="animated fadeInLeft">Origem</h5>
               </div>
             </div>
-            <!--column-->
+            <!--section_head_widget-->
           </div>
           <!--row-->
-        </div>
-        <!--contaier-->
-        <div class="news_widget">
-          <div class="container controls_wrapper animatedParent ">
-            <div class="carousel_controls"> <span id="news-prev" class="fa fa-angle-left animated fadeInLeft"></span> <span id="news-next" class="fa fa-angle-right animated bounceInRight "></span> </div>
-            <!--controls-->
+
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="text_widget">
+                
+<p>Elvis Presley (1935-1977) foi um cantor norte-americano, considerado o maior ídolo do rock'n roll mundial. Foi chamado o Rei do Rock. Entre suas músicas destacam-se: That's All Rigt, Love Me Tender, It's Now or Never e Kiss Me Quick.
+</p>
+<p>Elvis Presley (1935-1977) nasceu em East Tupelo, Mississipi, Estados Unidos no dia 08 de janeiro de 1935. Filho de Vernon Presley e Gladys Presley, nasceu de um parto difícil, de gêmeos, onde seu irmão não sobreviveu. Em 12 de setembro de 1948, sua família muda-se para Memphis, Tennessee. De família pobre, trabalhou como lanterninha de cinema e como caminhoneiro. Em 1953, concluiu seus estudos secundários.
+</p>
+<p>Passou sua infância em Memphis, Tennessee, onde participava do coro da igreja evangélica local. Recebeu influência do blues e do country. Aprendeu a tocar guitarra e participou de concursos de música em sua cidade. Em 1954, foi contratado pelo produtor musical da Memphis Recording Service, Sam Phillips, então a procura de um cantor branco que cantasse blue.
+</p>
+<p>Em 1954 Elvis gravou seu primeiro disco, um compacto com as músicas "That's all right" e "Blue Moom of Kentucky". Suas apresentações encantavam as plateias. No dia 2 de outubro fez sua primeira apresentação fora de seu estado, em Atlanta, Geórgia.
+</p>
+<p>Em 1955, foi contratado pela gravadora RCA Victor. Suas novas músicas "Mystery Train" e "Baby Let's Play House", logo ocuparam as paradas de sucesso. Suas apresentações nos programas de rádio e televisão fascinavam o público. Em 1956, Elvis apresentou-se no programa de televisão dos irmãos Dorsey e seu álbum "Heartbreak Hotel" alcançou num só ano a marca de nove milhões de cópias vendidas. Atuou em seguida no filme "Love Me Tender", primeiro de uma série de 33 gravações.
+</p>
+<p>Elvis Presley inicia suas apresentações internacionais, encantando e escandalizando as plateias, com suas roupas estravagantes e sua maneira exagerada de rebolar. Em 1958, é chamado para servir o exército. No dia 14 de agosto, morre sua mãe. Em outubro é transferido para uma base militar dos Estados Unidos, na Alemanha, onde fica até março de 1960.
+</p>
+<p>De volta a sua cidade, retorna aos palcos e marca com sua apresentação no programa The Frank Sintra Show, onde com suas roupas extravagantes, realiza uma de suas melhores apresentações. Participa de vários filmes, entre eles, "Fun in Acapulco"(1963) e "Viva Las Vegas"(1964). No dia 1 de maio de 1967, casa-se com Priscilla Presley, em Las Vegas. No dia 1 de fevereiro de 1969 nasce Lisa Marie Presley.
+</p>
+<p>Durante os anos 70, Elvis realiza grandes shows e se apresenta em Las Vegas, em várias temporadas. Grava novo disco, e as músicas "Suspicious Minds", "In the Ghrtto", despontam nas paradas. Com seu rebolado provoca reações histéricas nas plateias adolescentes. Em janeiro de 1973, separa-se definitivamente de Priscilla Presley.
+</p>
+<p>No auge de sua carreira, apresenta sérios problemas de saúde, acima do peso e viciado em remédios controlados evita aparecer em público. No dia 21 de junho de 1977, Elvis Presley fez seu último show em Los Angeles. No dia 16 de agosto Elvis Presley morre, de ataque cardíaco.
+</p>
+<p>Após sua morte em Memphis, em 16 de agosto de 1977, oito milhões de cópias de seus discos esgotaram-se em apenas cinco dias. Graceland, a suntuosa mansão do cantor na cidade, ainda hoje é local de peregrinação de seus admiradores.
+</p>
+
+                </div>
+            </div>
           </div>
-          <!--//controls_wrapper//carousel_overlay-->
-
-          <div class="news_carousel animatedParent ">
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n1.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="1">
-                      Read Full Article
-                  </a>
-                </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n2.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="2">
-                      Read Full Article
-                  </a>
-               </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n3.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="3">
-                      Read Full Article
-                  </a>
-                </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n4.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="4">
-                      Read Full Article
-                  </a>
-                </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n5.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="5">
-                      Read Full Article
-                  </a>
-                </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-            <div class="news_box fadeInUp animated">
-              <figure><img src="assets/img/news/n6.jpg" alt="" /></figure>
-              <div class="news_info_wrapper">
-                <div class="news_info">
-                  <h5>poison fragnances coming soon</h5>
-                  <ul class="news_meta">
-                    <li>by POISON</li>
-                    <li>Sep 20, 2013</li>
-                  </ul>
-                  <!--//news_meta-->
-                  <h6>3 comments</h6>
-                </div>
-                <!--news_info-->
-              </div>
-              <!--//news_info_wrapper-->
-              <div class="hover">
-                  <a class="triggerNews" href="news.html" data-number="6">
-                      Read Full Article
-                  </a>
-                </div>
-              <!--//hover-->
-            </div>
-            <!--//news_box bounceInUp animated-->
-
-          </div>
-          <!--//news_carousel-->
-
         </div>
-        <!--//news_widget-->
+     
       </section>
-      <!--//News-->
 
       <section id="newsAjaxWrapper" class="container">
             <a class="closeNewsAjax" href="#section_2"><i class="fa fa-times"></i></a>
@@ -442,8 +316,9 @@ Preloader
         <div class="container">
           <div class="row">
             <div class="col-xs-12">
-              <h3>we have special news &amp; prizes only <br>
-                for our biggest poison fans!</h3>
+
+              <h3>TEMOS NOTÍCIAS E PRÊMIOS ESPECIAIS SOMENTE<br>
+                  PARA NOSSOS MAIS GRANDES FÃS DO VENENO!</h3>
               <div class="team_prizes">
               	<figure class="team_stand animatedParent" data-sequence="400">
                 	<img class="animated fadeInUp" data-id="1" src="assets/img/team/man1.png" alt=""/>
@@ -454,9 +329,9 @@ Preloader
                 </figure>
                 <div class="newsletter_form">
                   <form>
-                    <input type="text" placeholder="Name"/>
+                    <input type="text" placeholder="Nome"/>
                     <input type="email" placeholder="Email"/>
-                    <button>Access</button>
+                    <button>Enviar</button>
                     <div class="clearfix"></div>
                   </form>
                 </div>
